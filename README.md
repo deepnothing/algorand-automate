@@ -3,7 +3,7 @@
 this function takes parameters for sender and receiver wallets as well as ASA IDs, txn amounts and txn notes. Running on AlgoEExplorer api
 
 ```
-AlgoArgs({
+AlgoAuto({
     senderWalletMnemonic: '',
     senderWalletAddress: '',
     receiverWalletAddress: '',
