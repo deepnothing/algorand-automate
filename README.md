@@ -1,6 +1,6 @@
 # algorand-automate
 
-`
+```
 AlgoArgs({
     senderWalletMnemonic: '',
     senderWallet: '',
@@ -11,4 +11,4 @@ AlgoArgs({
     response: true,
 })
 
-`
+```
