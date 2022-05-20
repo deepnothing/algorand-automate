@@ -1,8 +1,13 @@
 # algorand-automate 
 
-this function takes parameters for sender and receiver wallets as well as ASA IDs, txn amounts and txn notes. Running on AlgoEExplorer api
+A helpful function for automating blockchain transactions on algorand 
+
+this function takes parameters for sender and receiver wallets as well as ASA IDs, txn amounts and txn notes. Running on AlgoExplorer api
 
 ```
+import AlgoAuto from 'algorand-automate';
+
+
 AlgoAuto({
     senderWalletMnemonic: '',
     senderWalletAddress: '',
